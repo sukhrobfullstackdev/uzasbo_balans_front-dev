@@ -1,0 +1,74 @@
+@import "../../../assets/scss/style";
+
+.pcoded-header .dropdown .profile-notification {
+  transform: translate(-249px, 64px) !important;
+}
+
+.fullscreen-enabled {
+  overflow-y: auto;
+}
+
+.loader-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.meta-data {
+  position: absolute;
+  bottom: 50px;
+  color: black;
+}
+
+.loader-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.spin-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 70px);
+}
+
+.table-top {
+  display: flex;
+  // justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.ant-notification {
+  z-index: 9999 !important;
+}
+
+.btns .ant-form-item-control-input-content {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+}
+
+.Bank {
+  padding: 25px;
+  box-shadow: none;
+  border: none;
+}
+
+.Logo{
+  width: 10%;
+  height: 10%;
+}
+
+.table-search {
+  margin: 0 10px 10px 0;
+  width: auto !important;
+}
+
+.pcoded-content {
+  padding-top: 10px !important;
+}

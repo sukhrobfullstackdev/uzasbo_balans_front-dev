@@ -1,0 +1,10 @@
+.fixed-th {
+ text-align: center;
+ position: sticky;
+ right: 0;
+}
+.EmployeeEnrolmentModal{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+  }

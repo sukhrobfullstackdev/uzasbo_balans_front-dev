@@ -1,0 +1,11 @@
+.fixed-th {
+ text-align: center;
+ position: sticky;
+ right: 0;
+}
+
+.flex-end{
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+}

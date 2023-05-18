@@ -1,0 +1,31 @@
+.pieChart {
+  height: 400px !important;
+  width: 400px !important;
+}
+
+.multi-bar-chart-loader {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.multi-bar-chart-loader .multi-bar-chart-button-loader {
+  width: 400px;
+}
+
+@media (max-width: 576px) {
+  .pieChart {
+    height: 200px !important;
+    width: 200px !important;
+  }
+}
+
+/* @media (max-width: 415px) {
+  .pieChart {
+    height: 500px !important;
+    width: 500px !important;
+  }
+} */
+

@@ -1,0 +1,10 @@
+#chart .dxc-series rect {
+  cursor: pointer;
+}
+
+.dx-button-has-text .dx-icon {
+  color: white;
+  margin-right: 2px;
+  font-size: 12px;
+  width: auto;
+}

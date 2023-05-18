@@ -1,0 +1,19 @@
+.fixed-th {
+ text-align: center;
+ position: sticky;
+ right: 0;
+}
+.EmployeeEnrolmentModal{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+  }
+  .ant-input-group-addon {
+    padding: 4px 11px;
+    cursor: pointer;
+  }
+  .btn-form-item {
+    height: 100%;
+    padding-bottom: 24px;
+    align-items: flex-end;
+  }

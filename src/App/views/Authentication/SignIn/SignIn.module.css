@@ -1,0 +1,15 @@
+.Button {
+  text-align: center;
+}
+
+.SignInLang {
+  position: absolute !important;
+  top: 30px;
+  right: 30px;
+  float: right;
+}
+
+.SignInLogo{
+  /* float: left; */
+  margin-bottom: 20px;
+}

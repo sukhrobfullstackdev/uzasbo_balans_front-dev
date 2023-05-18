@@ -1,0 +1,71 @@
+.FormElements {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .FilterForm {
+    width: 100%;
+  }
+  
+  .DeleteBtn{
+    padding: 0;
+    border: unset;
+    background-color: unset !important;
+  }
+  .Buttons{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  .FilterWrapper {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .InputsWrapper {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .Wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  .InputsWrapper {
+    display: flex;
+    gap: 15px;
+  }
+  .InputsWrapper1 {
+    display: flex;
+    gap: 15px;
+  }
+  .out-sum {
+    background-color: yellow !important;
+  }
+  
+  .EmployeeEnrolmentModal{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+  }
+  
+  
+
+  .btn-form-item {
+    height: 100%;
+    padding-bottom: 24px;
+    align-items: flex-end;
+  }
+
+  
